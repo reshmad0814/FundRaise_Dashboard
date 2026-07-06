@@ -118,17 +118,19 @@ Developed an interactive Business Intelligence dashboard that enables stakeholde
 
 ---
 
-## 📷 Dashboard Preview
+# 📷 Dashboard Preview
 
-### Dashboard 1 – Overview
-[<img width="100%" alt="Overview Dashboard" src="images/Dashboard1.png">](https://github.com/reshmad0814/FundRaise_Dashboard/blob/main/Fundraising_Dashboard_1.png)
+## Dashboard 1 – Overview
 
-### Dashboard 2 – Methods, Strategies & Process
-[<img width="100%" alt="Methods Dashboard" src="images/Dashboard2.png">](https://github.com/reshmad0814/FundRaise_Dashboard/blob/main/Fundraising_Dashboard_2.png)
-
-### Dashboard 3 – RCA & SWOT Analysis
-[<img width="100%" alt="RCA Dashboard" src="images/Dashboard3.png">](https://github.com/reshmad0814/FundRaise_Dashboard/blob/main/Fundraising_Dashboard_3.png)
+[![Dashboard 1](https://raw.githubusercontent.com/reshmad0814/FundRaise_Dashboard/main/Fundraising_Dashboard_1.png)](https://github.com/reshmad0814/FundRaise_Dashboard/blob/main/Fundraising_Dashboard_1.png)
 
 ---
+
+## Dashboard 2 – Methods, Strategies & Process
+
+[![Dashboard 2](https://raw.githubusercontent.com/reshmad0814/FundRaise_Dashboard/main/Fundraising_Dashboard_2.png)](https://github.com/reshmad0814/FundRaise_Dashboard/blob/main/Fundraising_Dashboard_2.png)
+
+---
+
 
 
